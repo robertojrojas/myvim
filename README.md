@@ -18,3 +18,6 @@ My vim configuration for MacOSX, Ubuntu, and Redhat/CentOS.
 - ./install.py --clang-completer
 
 - enjoy!
+
+
+![alt text](https://raw.githubusercontent.com/robertojrojas/myvim/master/mvim.png "MacVim screenshot")
