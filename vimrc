@@ -213,4 +213,4 @@ autocmd FileType html,eruby,erb,tmpl let b:closetag_html_style=1
 map <leader>t :TagbarToggle<cr>
 
 "+++ C/C++ compiler hook +++
-let g:ycm_global_ycm_extra_conf = '/Users/robertorojas/.vim/bundle/YouCompleteMe/third_party/ycmd/cpp/ycm/.ycm_extra_conf.py'
+let g:ycm_global_ycm_extra_conf = '~/.vim/bundle/YouCompleteMe/third_party/ycmd/cpp/ycm/.ycm_extra_conf.py'
