@@ -7,15 +7,20 @@ My vim configuration for MacOSX, Ubuntu, and Redhat/CentOS.
 
 - cd $HOME
 
-- ln -s ./vim/vimrc .vimrc
+- ln -s .vim/vimrc .vimrc
 
 - modify .vimrc to fix paths for GO, etc....
 
-- cd ./vim/bundle/YouComplete
+- git clone https://github.com/Valloric/YouCompleteMe.git ~/.vim/bundle/YouCompleteMe
 
-- git pull
+- pushd ~/.vim/bundle/YouCompleteMe
 
 - ./install.py --clang-completer
+
+- popd
+
+- git clone https://github.com/fatih/vim-go.git ~/.vim/bundle/vim-go
+
 
 - enjoy!
 
