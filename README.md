@@ -3,9 +3,9 @@ My vim configuration for MacOSX, Ubuntu, and Redhat/CentOS.
 
 # To install
 
-- git clone https://github.com/robertojrojas/myvim.git .vim
-
 - cd $HOME
+
+- git clone https://github.com/robertojrojas/myvim.git .vim
 
 - ln -s .vim/vimrc .vimrc
 
