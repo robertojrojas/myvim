@@ -3,7 +3,7 @@ My vim configuration for MacOSX, Ubuntu, and Redhat/CentOS.
 
 # To install
 
-- git clone git@github.com:robertojrojas/myvim.git .vim
+- git clone https://github.com/robertojrojas/myvim.git .vim
 
 - cd $HOME
 
