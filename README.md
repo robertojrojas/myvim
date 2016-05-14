@@ -7,7 +7,7 @@ My vim configuration for MacOSX, Ubuntu, and Redhat/CentOS.
 
 - git clone https://github.com/robertojrojas/myvim.git .vim
 
-- ln -s .vim/vimrc .vimrc
+- ln -s ~/.vim/vimrc ~/.vimrc
 
 - modify .vimrc to fix paths for GO, etc....
 
