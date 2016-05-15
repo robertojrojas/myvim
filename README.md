@@ -15,6 +15,8 @@ My vim configuration for MacOSX, Ubuntu, and Redhat/CentOS.
 
 - pushd ~/.vim/bundle/YouCompleteMe
 
+- git submodule update --init --recursive
+
 - ./install.py --clang-completer
 
 - popd
