@@ -5,7 +5,7 @@ My vim configuration for MacOSX, Ubuntu, and Redhat/CentOS.
 
 - cd $HOME
 
-- git clone https://github.com/robertojrojas/myvim.git .vim
+- git clone https://github.com/robertojrojas/myvim.git ~/.vim
 
 - ln -s ~/.vim/vimrc ~/.vimrc
 
